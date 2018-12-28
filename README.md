@@ -1,1 +1,1 @@
-# webpack-js
+# webpack template for javascript only
