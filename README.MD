@@ -1,4 +1,4 @@
-## Operation Steps:
+## Webpack for Javascript only:
 * Install webpack modules: npm i -D webpack webpack-cli webpack-dev-server
 * Go to 'www.webpackjs.org' and copy start-up codes, then past into webpack.config.js
 * In order to convert ES6/ES7/ES8 into ES5, install babel modules: npm i -D babel-core babel-loader babel-preset-env
