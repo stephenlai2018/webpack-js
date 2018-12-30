@@ -11,4 +11,4 @@
     "deploy": "webpack --mode=production"
   },
 * Execute npm run watch to auto reload files once we have made changes
-* Execute npm run deploy before ready to upload to server
+* Execute npm run deploy and get ready to upload to server
